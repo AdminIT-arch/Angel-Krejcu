@@ -1,2 +1,3 @@
 # Angel-Krejcu
-Open Office manager optimální
+Open Office manager optimální jádro procesoru Linux
+
